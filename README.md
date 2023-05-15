@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
-<h3>About me</h3> I'm passionate about data and its potential to foster growth and development. </h3>
+<h3 align="center">I'm passionate about data and its potential to foster growth and development.</h3>
 
 <h4>About me</h4>
 
