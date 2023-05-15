@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
-<h3 align="center">I'm passionate about data and its potential to foster growth and transform society.</h3>
+<h3 align="center">I have a deep passion and love for data science and its potential to foster growth and transform society.</h3>
 
 <h3>About me</h3>
 
@@ -14,7 +14,7 @@ Currently completing a Master's in Data Science at The University of British Col
 
 😃 **Fun fact** 
 
-I love sports (Basketball, Football, F1 and Running are my favorites), and I'm constantly doing marathons 🏃🏻‍♂️".
+Passionate about sport and human performance (Basketball, Football, F1 and Running are my favorites), and I'm constantly doing marathons 🏃🏻‍♂️.
 
 📬 **How to reach me** 
 
