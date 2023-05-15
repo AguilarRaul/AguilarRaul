@@ -2,7 +2,7 @@
 
 <h3 align="center">I have a deep passion and love for data science and its potential to foster growth and transform society.</h3>
 
-<h3>About me</h3>
+<h2>About me</h2>
 
 👨🏻‍💻 **What drives me** 
 
