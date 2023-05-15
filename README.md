@@ -1,18 +1,16 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
-<h3 align="center">I'm passionate about data and its potential to foster growth and development.</h3>
+<h3 align="center">I'm passionate about data and its potential to foster growth and transform society.</h3>
 
-<h4>About me</h4>
+<h3>About me</h3>
 
-- What drives me?  My goal is to build cutting-edge solutions utilizing deep learning and machine learning techniques with a high strategic impact on society.
+- 👨🏻‍💻 What drives me:  Build cutting-edge solutions utilizing deep learning and machine learning techniques with a high strategic impact on society and businesses.
 
-- 📚 I'm currently pursuing my Master's in Data Science at UBC
+- 📚 What I am doing now: currently completing a Master's in Data Science at The University of British Columbia.
 
-- 📧 How to reach me **caesar.wongw@gmail.com**
+- 🏃🏻‍♂️ Fun fact: I love sports (Basketball, Football, F1 and Running are my favorites), and I'm constantly doing marathons".
 
-- 😃 Fun fact - I'm an opacarophile 🌄
+-  📬 How to reach me aguilar.raul.lop@gmail.com**
 
-<p align="left">I am a driven and innovative software engineer with a passion for developing cutting-edge solutions utilizing AI and machine learning technologies. With experience working as a software engineer and with data scientists, I thrive in solving complex problems and creating software that has a positive impact on people's lives and brings value to businesses.
-</p>
 
 
