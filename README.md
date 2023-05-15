@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
+I'm a Data Scientist currently based in 🇨🇦, thanks for stopping by!
 <h2>About me</h2>
 
 🔭 **What drives me** 
