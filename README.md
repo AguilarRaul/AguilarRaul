@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
-<h3>About me</h3>I'm a Data Scientist :flag_mexico: based in Vancouver, Canada :flag_canada: </h3>
+<h3>About me</h3> I'm passionate about data and its potential to foster growth and development. </h3>
 
 <h4>About me</h4>
 
-- What drives me? I'm passionate about data and its potential to enhance growth and development. My goal is to build cutting-edge solutions utilizing deep learning and machine learning techniques with a high strategic impact on society.
+- What drives me?  My goal is to build cutting-edge solutions utilizing deep learning and machine learning techniques with a high strategic impact on society.
 
 - 📚 I'm currently pursuing my Master's in Data Science at UBC
 
