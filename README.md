@@ -2,7 +2,7 @@
 
 I'm a Data Scientist currently based in Canada🇦, thanks for stopping by!
 
-<h2>👨🏻‍💻 About me</h2>
+## 👨🏻‍💻 About me
 
 🔭 **What drives me** 
 
@@ -23,7 +23,7 @@ Passionate about sports and human performance (Basketball, Football, F1 and Runn
 
 
 
-<h2><img src=https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif width="30"> What I know</h2>
+## <img src=https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif width="25"> What I know
   
 <img src="https://github-readme-stats.vercel.app/api?username=AguilarRaul&show_icons=true"/>
   
