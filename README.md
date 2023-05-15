@@ -4,19 +4,19 @@
 
 <h3>About me</h3>
 
-👨🏻‍💻 **What drives me:** 
+👨🏻‍💻 **What drives me** 
 
 Build cutting-edge solutions utilizing statistical modeling, deep learning and machine learning techniques with a high strategic impact on society and businesses.
 
-📚 **What I am doing now:** 
+📚 **What I am doing now** 
 
 Currently completing a Master's in Data Science at The University of British Columbia.
 
-😃 **Fun fact:** 
+😃 **Fun fact** 
 
 I love sports (Basketball, Football, F1 and Running are my favorites), and I'm constantly doing marathons 🏃🏻‍♂️".
 
-📬 **How to reach me:** 
+📬 **How to reach me** 
 
  📩 aguilar.raul.lop@gmail.com
  <p><a href="https://www.linkedin.com/in/aguilar-raul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
