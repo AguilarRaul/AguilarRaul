@@ -22,7 +22,7 @@ Passionate about sports and human performance (Basketball, Football, F1 and Runn
 - <p><a href="https://www.linkedin.com/in/aguilar-raul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
 
 
-## <img src=https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif width="25"> What I know
+## <img src=https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif width="25"> What I know
   
 <img src="https://github-readme-stats.vercel.app/api?username=AguilarRaul&show_icons=true&theme=dark"/>
   
