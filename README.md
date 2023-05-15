@@ -21,9 +21,10 @@ Passionate about sports and human performance (Basketball, Football, F1 and Runn
 - 📩 aguilar.raul.lop@gmail.com
 - <p><a href="https://www.linkedin.com/in/aguilar-raul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
 
+
 ##  <img src=https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif width="30"> What I know 
   
-   
+  
 ### Programming
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
