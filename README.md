@@ -1,12 +1,10 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
-<h3 align="center">I have a deep passion and love for data science and its potential to foster growth and transform society.</h3>
-
 <h2>About me</h2>
 
 👨🏻‍💻 **What drives me** 
 
-Build cutting-edge solutions utilizing statistical modeling, deep learning, and machine learning techniques with a high strategic impact on society and businesses.
+a deep passion and love for data science and its potential to foster growth and transform society. My goal is to build cutting-edge solutions utilizing statistical modeling, deep learning, and machine learning techniques with a high strategic impact on society and businesses.
 
 📚 **What I am doing now** 
 
