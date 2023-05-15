@@ -6,7 +6,7 @@
 
 👨🏻‍💻 **What drives me** 
 
-Build cutting-edge solutions utilizing statistical modeling, deep learning and machine learning techniques with a high strategic impact on society and businesses.
+Build cutting-edge solutions utilizing statistical modeling, deep learning, and machine learning techniques with a high strategic impact on society and businesses.
 
 📚 **What I am doing now** 
 
