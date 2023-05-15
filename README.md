@@ -18,5 +18,5 @@ Passionate about sport and human performance (Basketball, Football, F1 and Runni
 
 📬 **How to reach me** 
 
- 📩 aguilar.raul.lop@gmail.com
- <p><a href="https://www.linkedin.com/in/aguilar-raul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
+- 📩 aguilar.raul.lop@gmail.com
+- <p><a href="https://www.linkedin.com/in/aguilar-raul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
