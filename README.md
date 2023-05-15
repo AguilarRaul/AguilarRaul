@@ -22,4 +22,6 @@ Passionate about sports and human performance (Basketball, Football, F1 and Runn
 
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AguilarRaul&show_icons=true"/>
+  
+  
+<img src="https://github-readme-stats.vercel.app/api?username=AguilarRaul&show_icons=true"/>
