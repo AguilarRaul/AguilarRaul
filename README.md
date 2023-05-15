@@ -21,7 +21,7 @@ Passionate about sports and human performance (Basketball, Football, F1 and Runn
 - <p><a href="https://www.linkedin.com/in/aguilar-raul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
 
   
-<img src="https://giphy.com/stickers/coding-developer-definity-first-UVG0BN8TOMKkPOJS6e" width="30">
+
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=AguilarRaul&show_icons=true"/>
