@@ -1,18 +1,18 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Raul!</h1>
 
-<h2 align="center"> I'm passionate about data and its potential to enhance growth and development. My goal is to build cutting-edge solutions utilizing deep learning and machine learning techniques with a high strategic impact on society. </h2>.
+<h3>About me</h3>I'm a Data Scientist :flag_mexico: based in Vancouver, Canada :flag_canada: </h3>
 
-<!--
-**AguilarRaul/AguilarRaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>About me</h4>
 
-Here are some ideas to get you started:
+- What drives me? I'm passionate about data and its potential to enhance growth and development. My goal is to build cutting-edge solutions utilizing deep learning and machine learning techniques with a high strategic impact on society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm currently pursuing my Master's in Data Science at UBC
+
+- 📧 How to reach me **caesar.wongw@gmail.com**
+
+- 😃 Fun fact - I'm an opacarophile 🌄
+
+<p align="left">I am a driven and innovative software engineer with a passion for developing cutting-edge solutions utilizing AI and machine learning technologies. With experience working as a software engineer and with data scientists, I thrive in solving complex problems and creating software that has a positive impact on people's lives and brings value to businesses.
+</p>
+
+
