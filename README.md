@@ -4,7 +4,7 @@ I'm a Data Scientist currently based in Vancouver, Canada 🇨🇦. Thanks for s
 
 <h2>About me</h2>
 
-👨🏻‍💻 **What drives me** 
+❤️ **What drives me** 
 
 A deep passion and love for data science and its potential to foster growth and transform society. My goal is to build cutting-edge solutions utilizing statistical modeling, deep learning, and machine learning techniques with a high strategic impact on society and businesses.
 
