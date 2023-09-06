@@ -12,7 +12,7 @@ Currently completing a Master's in Data Science at The University of British Col
 
 😃 **Fun fact** 
 
-Passionate about sports and human performance (Basketball, Football, F1 and Running are my favorites). I love running and marathons 🏃🏻‍♂️.
+Passionate about sports and human performance. I love running 🏃🏻‍♂️.
 
 📬 **How to reach me** 
 
